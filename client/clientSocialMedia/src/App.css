@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    background-color: #F0EAD6;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+a:active {
+    color: #F9F6EE;
+}
+
+a:hover {
+    text-decoration: underline;
+}
