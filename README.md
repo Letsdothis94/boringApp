@@ -1,24 +1,11 @@
-# README
+# BoringApp
+## The boring app is a social media website that enables users to view, share and create entertaining posts
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+1. React js
+2. 2. Ruby on Rails
+3. WebSockets
+4. Jwt Tokens
+5. CSS
+6. ActiveStorage
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<h3>Homepage</h3>
