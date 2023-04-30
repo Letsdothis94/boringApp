@@ -9,7 +9,7 @@
 6. ActiveStorage
 
 <h3>Login/Signup</h3>
-<img src="/home/cristian94/Projects/5/socialMedia/socialMedia/readmeIMGS/login.png" />
+<img src="https://github.com/home/cristian94/Projects/5/socialMedia/socialMedia/readmeIMGS/login.png" />
 <h3>HomePage</h3>
 
 <h3>GlobalChat</h3>
