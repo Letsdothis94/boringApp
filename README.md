@@ -8,4 +8,10 @@
 5. CSS
 6. ActiveStorage
 
-<h3>Homepage</h3>
+<h3>Login/Signup</h3>
+
+<h3>HomePage</h3>
+
+<h3>GlobalChat</h3>
+
+<h3>News Sections</h3>
