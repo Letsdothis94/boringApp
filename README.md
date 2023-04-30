@@ -10,8 +10,18 @@
 
 <h3>Login/Signup</h3>
 <img src="/readmeIMGS/login.png" />
+<img src="/readmeIMGS/Signup.png" />
+
 <h3>HomePage</h3>
+<img src="/readmeIMGS/newsfeed1.png" />
+<img src="/readmeIMGS/newsfeed.png" />
 
 <h3>GlobalChat</h3>
+<img src="/readmeIMGS/chat.png" />
 
-<h3>News Sections</h3>
+<h3>Comment</h3>
+<img src="/readmeIMGS/comment.png" />
+
+<h3>News Section with Local Weather</h3>
+<img src="/readmeIMGS/newsWeather.png" />
+
